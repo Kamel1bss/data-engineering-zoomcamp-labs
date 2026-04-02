@@ -1,4 +1,3 @@
 # 🐳 Docker Workshop
 
-Basic hands-on practice with Docker as part of my Data Engineering Zoomcamp journey.  
-Covers running containers, understanding images vs containers, and working with isolated environments.
+In this workshop, we will explore Docker fundamentals and data engineering workflows using Docker containers. This workshop is part of Module 1 of the Data Engineering Zoomcamp.
